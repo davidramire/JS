@@ -1,3 +1,8 @@
 # JS
 Java Script
-Variables y operadores
+Ruta:
+1. Fundamentos de JavaScript:
+  *Variables y tipo de datos
+  *Operadores
+  *Estructuras de control
+  *Funciones
